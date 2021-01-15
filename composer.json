@@ -1,0 +1,17 @@
+{
+    "name": "panduwijaya/laravel-tripay-api",
+    "description": "Packages PHP for Tripay Payment API",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "pandu-wijaya",
+        "email": "panduwijaya456@gmail.com"
+    }],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "PanduWijaya\\LaravelTripay\\": "src/"
+        }
+    }
+}
