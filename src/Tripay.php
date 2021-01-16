@@ -1,5 +1,5 @@
 <?php
-
+namespace PanduWijaya\LaravelTripay;
 class Tripay
 {
     protected $api_PKey = '';
